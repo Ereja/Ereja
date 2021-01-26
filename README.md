@@ -2,7 +2,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
 
-- 🔭 I’m currently a Web Development student at HackYourFuture.(https://www.hackyourfuture.net/)
+- 🔭 I’m a Web Development student at HackYourFuture.(https://www.hackyourfuture.net/)
 - 📚 I’m currently learning  backend web development using NodeJS and ExpressJS.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vaidavaitkeviciute/)
