@@ -4,6 +4,7 @@
 
 - 🔭 I’m a Web Development student at [HackYourFuture.](https://www.hackyourfuture.net/)
 - 📚 I’m currently learning  backend web development using NodeJS and ExpressJS.
+- ⌨ Small projects I built on [CodePen](https://codepen.io/Erie1993)
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vaidavaitkeviciute/)
 
