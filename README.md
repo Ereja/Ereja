@@ -1,12 +1,6 @@
-### Hi there 👋 
-
-<!--
-**Ereja/Ereja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋<h1>Hi, I'm Vaida!</h1>
+👋<h1>Hi, I'm Vaida!</h1>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
-<h3> 👨🏻•💻 About Me </h3>
 
 - 🔭 I’m currently a Web Development student at HackYourFuture.(https://www.hackyourfuture.net/)
 - 📚 I’m currently learning  backend web development using NodeJS and ExpressJS.
@@ -31,10 +25,12 @@
   
   
 
-/*
+<!---
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-*/
+
+--->
+
 
