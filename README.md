@@ -4,6 +4,7 @@
 
 - 🔭 I’m a Web Development student at [HackYourFuture.](https://www.hackyourfuture.net/)
 - 📚 I’m currently looking for a software development internship.
+- 📚 I’m currently learning Sass.
 - ⌨ Small projects I built on [CodePen](https://codepen.io/Erie1993)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vaidavaitkeviciute/)
 
