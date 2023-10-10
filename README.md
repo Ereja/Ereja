@@ -1,15 +1,6 @@
 👋<h1>Hi, I'm Vaida!</h1>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="220" alt="octocat.gif">
-
-- 🔭 I’m a Web Development student at [HackYourFuture.](https://www.hackyourfuture.net/)
-- 📚 I’m currently learning how to write automated E2E tests and SFCC
-- 📚 I’m currently learning Sass.
-- ⌨ Small projects I built on [CodePen](https://codepen.io/Erie1993)
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/vaidavaitkeviciute/)
-
-
-
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;
